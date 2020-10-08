@@ -4094,9 +4094,9 @@ body.open_canvas .wrap:after {
   }
 }
 .main-navigation .main-menu ul li.menu-item-has-children > a:after {
-  content: "\f3d0";
+  content: "\f107";
   display: inline-block;
-  font-family: "Ionicons";
+  font-family: "Fontawesome";
   speak: none;
   font-style: normal;
   font-weight: normal;
